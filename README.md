@@ -4,6 +4,8 @@
 
 ## Project Timeline
 
+[Meeting notes](https://docs.google.com/document/d/1hIbb1n-5s83A4uw-b6NnLJ7KvQONBrTAejurA_E0azA/edit)
+
 ### Week 1: Project Planning and Initial Data Review
 
 * Project planning, role assignment, and kickoff meeting.
